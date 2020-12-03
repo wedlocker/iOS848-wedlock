@@ -2,7 +2,7 @@ import Cocoa
 
 var str = "Hello, playground"
 
-//1. обычное число простая проверка
+//1. обычное число простая проверка11
 var number = 5
 if (number % 2 == 0)
 {
